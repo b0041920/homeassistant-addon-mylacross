@@ -2,10 +2,11 @@
   "name": "Mylacross",
   "version": "1.0",
   "slug": "mylacross",
-  "description": "Ein Add-on zur Ausführung von mylacross zur Sensorauslesung.",
+  "description": "Ein Add-on zur Ausführung von pylacrosse zur Sensorauslesung.",
   "startup": "services",
   "boot": "auto",
   "ingress": false,
   "options": {},
-  "schema": {}
+  "schema": {},
+  "devices": [ "/dev/ttyUSB0" ]
 }
