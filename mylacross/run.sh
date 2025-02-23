@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Hier können Sie noch Umgebungsvariablen setzen oder Log-Ausgaben konfigurieren
+# Hier können Umgebungsvariablen gesetzt oder Log-Ausgaben konfiguriert werden
 
-# Starte mylacross (ggf. mit gewünschten Parametern)
-exec mylacross
+# Starte pylacrosse
+exec pylacrosse
